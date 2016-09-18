@@ -5,7 +5,7 @@ using System.Web;
 ﻿using System.Data.SQLite;
 using System.Data;
 
-namespace ProjectManager.App_Code.Database
+namespace SQLiteSample.App_Code.Database
 {
     /// <summary>
     /// SQLiteラッパークラス
